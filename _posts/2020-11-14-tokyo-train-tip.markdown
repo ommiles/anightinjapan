@@ -17,6 +17,8 @@ Known as the Tōkyō chikatetsu, in English it can be translated and referred to
 
 Unless you’re only in the country for a day or two you’ll really benefit from grabbing a stored value card.  It’ll make getting on and off the trains so much quicker than using the  ticket machines all the time.  You can buy a PASMO card from a machine or the station office and then just top it up when you need to.  If you already have another Japanese transport card like the Suica or ICOCA they will work fine too.  You can now use the cards interchangably across the Japanese Subway in various cities and many other forms of public transport.
 
+![On the Subway](/uploads/blog-3b.jpg)
+
 ### You don’t need to speak Japanese
 
 The good news is that Tokyo Subway is bi-lingual.  If you speak and read English you’ll have no problems with a language barrier. The signs, ticket machines, maps and announcements all have English versions.
