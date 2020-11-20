@@ -1,0 +1,32 @@
+---
+title: A Night in Japan
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: default
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+email: your-email@example.com
+description: A blog about Japan.  Write an awesome description for your new site here.
+  You can edit this line in _config.yml. It will appear in your document head meta
+  (for Google search results) and in your feed.xml site description.
+baseurl: 
+url: 
+twitter_username: jekyllrb
+github_username: ommiles
+theme: minima
+plugins:
+- jekyll-feed
